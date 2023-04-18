@@ -1,5 +1,5 @@
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
-<h1 align="center">Hello <coders/>👋, I'm Pratiti Ganguli</h1>
+![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+<h1 align="center"> Hello <coders/>👋, I'm Pratiti Ganguli</h1>
 <h3 align="center">An aspiring software and web developer from India</h3>
 <image align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratitig01&label=Profile%20views&color=0e75b6&style=flat" alt="pratitig01" /> </p>
